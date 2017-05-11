@@ -1,4 +1,7 @@
 machine:
   node:
     version: 7
+dependencies:
+  pre:
+    - sudo apt-get update; sudo apt-get install poppler-utils
 

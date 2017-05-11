@@ -1,0 +1,20 @@
+{
+  "name": "pdftotext-circle-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "pdftotext -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/pdftotext-circle-test.git"
+  },
+  "keywords": [],
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://pocztarski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/pdftotext-circle-test/issues"
+  },
+  "homepage": "https://github.com/rsp/pdftotext-circle-test#readme"
+}
